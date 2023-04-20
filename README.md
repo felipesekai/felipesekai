@@ -1,6 +1,6 @@
 ### Olá, me chamo Felipe Dantas do Nascimento 👋
 
-- 🔭 Estou atualmente buscando trabalho em Desenvolvimento Mobile
+- 🔭 Estou atualmente Trabalhando ...
 - 🌱 Estou atualmente aprendendo React JS, backend com Kotlin Spring boot
 - 📫 Contate-me pelo e-mail: Felippe10_@hotmail.com
 
